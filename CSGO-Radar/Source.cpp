@@ -1,7 +1,7 @@
 #include <Windows.h>
 #include <TlHelp32.h>
  
-#define dwEntityList 0x4D44A04
+#define dwEntityList 0x4D43AE4
 #define m_bSpotted 0x93D
  
 DWORD dwPid;
